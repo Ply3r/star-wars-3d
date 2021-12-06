@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/star-wars-3d/static/css/main.6f9e09b6.chunk.css",
+    "main.js": "/star-wars-3d/static/js/main.e8aad759.chunk.js",
+    "main.js.map": "/star-wars-3d/static/js/main.e8aad759.chunk.js.map",
+    "runtime-main.js": "/star-wars-3d/static/js/runtime-main.5144d9fc.js",
+    "runtime-main.js.map": "/star-wars-3d/static/js/runtime-main.5144d9fc.js.map",
+    "static/js/2.a9fb4c03.chunk.js": "/star-wars-3d/static/js/2.a9fb4c03.chunk.js",
+    "static/js/2.a9fb4c03.chunk.js.map": "/star-wars-3d/static/js/2.a9fb4c03.chunk.js.map",
+    "index.html": "/star-wars-3d/index.html",
+    "static/css/main.6f9e09b6.chunk.css.map": "/star-wars-3d/static/css/main.6f9e09b6.chunk.css.map",
+    "static/js/2.a9fb4c03.chunk.js.LICENSE.txt": "/star-wars-3d/static/js/2.a9fb4c03.chunk.js.LICENSE.txt",
+    "static/media/Alderaan.646bb435.jpg": "/star-wars-3d/static/media/Alderaan.646bb435.jpg",
+    "static/media/Bespin.3b074d8e.jpg": "/star-wars-3d/static/media/Bespin.3b074d8e.jpg",
+    "static/media/Curuscant.b5b0e32e.jpg": "/star-wars-3d/static/media/Curuscant.b5b0e32e.jpg",
+    "static/media/Dagobah.648cde9c.jpg": "/star-wars-3d/static/media/Dagobah.648cde9c.jpg",
+    "static/media/Endor.2eaef05f.jpg": "/star-wars-3d/static/media/Endor.2eaef05f.jpg",
+    "static/media/Hoth.6a1c6cd2.jpg": "/star-wars-3d/static/media/Hoth.6a1c6cd2.jpg",
+    "static/media/Kamino.f3a0e6f4.jpg": "/star-wars-3d/static/media/Kamino.f3a0e6f4.jpg",
+    "static/media/Naboo.01b4d09c.jpg": "/star-wars-3d/static/media/Naboo.01b4d09c.jpg",
+    "static/media/Yavin_IV.e990f2b9.jpg": "/star-wars-3d/static/media/Yavin_IV.e990f2b9.jpg",
+    "static/media/tatooine.a0799d62.jpg": "/star-wars-3d/static/media/tatooine.a0799d62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5144d9fc.js",
+    "static/js/2.a9fb4c03.chunk.js",
+    "static/css/main.6f9e09b6.chunk.css",
+    "static/js/main.e8aad759.chunk.js"
+  ]
+}
