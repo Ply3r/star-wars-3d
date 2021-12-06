@@ -76,6 +76,13 @@ const Planets = () => {
     }
     addStars()
 
+    window.addEventListener('resize', () => {
+      render.setPixelRatio(window.devicePixelRatio)
+      render.setSize(window.innerWidth, window.innerHeight)
+      camera.aspect = window.innerWidth / window.innerHeight
+      camera.updateProjectionMatrix();
+    })
+
     const animate = () => {
       requestAnimationFrame( animate )
 
