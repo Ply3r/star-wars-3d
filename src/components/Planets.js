@@ -12,19 +12,15 @@ const Planets = () => {
   hold = hold.sort(({ [column]: valueA }, { [column]: valueB }) => {
     const minusOne = -1;
 
-    let bool = Number(valueA) > Number(valueB) ? minusOne : 1;
+    if (column !== 'name') {
+      valueA = Number(valueA)
+      valueB = Number(valueB)
+    }
+
     if (sort === 'ASC') {
-      bool = Number(valueA) > Number(valueB) ? 1 : minusOne;
+      return valueA > valueB ? 1 : minusOne
     }
-
-    if (column === 'name') {
-      bool = valueB > valueA ? 1 : minusOne;
-      if (sort === 'ASC') {
-        bool = valueA > valueB ? 1 : minusOne;
-      }
-    }
-
-    return bool;
+    return valueA > valueB ? minusOne : 1
   });
 
   useEffect(() => {
